@@ -25,6 +25,10 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 - JavaScript
 
 
+![image](https://github.com/user-attachments/assets/6782afd2-a576-4d19-8bce-f11da0513f42)
+
+
+
 
 
 ### Ajeet Singh Rawat
